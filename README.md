@@ -8,3 +8,5 @@ BOMs:
   - Generic Discharge-based High Voltage Generator
 
 Where it all begin https://www.reddit.com/r/osugame/comments/k03i7i/osu_but_if_i_miss_i_get_electrocuted/
+
+DISCLAIMER: If you managed to kill yourself, coffin is not included in this repository.
