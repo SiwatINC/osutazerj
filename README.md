@@ -22,6 +22,7 @@ Utilized Library:
   - PyMata: https://github.com/MrYsLab/PyMata
   - Eclipse-Paho: https://www.eclipse.org/paho/
   - json-simple: https://github.com/fangyidong/json-simple
+  
 Utilized CAD Files:
   - Motor: https://grabcad.com/library/3-6v-dc-gearbox-electromotor-1
 Where it all begin https://www.reddit.com/r/osugame/comments/k03i7i/osu_but_if_i_miss_i_get_electrocuted/
