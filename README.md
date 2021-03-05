@@ -31,7 +31,8 @@ Where it all begin https://www.reddit.com/r/osugame/comments/k03i7i/osu_but_if_i
 
 DISCLAIMER: If you managed to kill yourself, coffin is not included in this repository.
 
-THIS SECTION IS FOR NERDS: The control software is written in Java, API documentation is included in the project!
+# THIS SECTION IS FOR NERDS
+The control software is written in Java, API documentation is included in the project!
 
 CALIBRATION CONSTANTS For 12V 1.5A DC SPS
 
