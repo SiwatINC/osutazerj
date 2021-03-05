@@ -33,8 +33,10 @@ DISCLAIMER: If you managed to kill yourself, coffin is not included in this repo
 
 THIS SECTION IS FOR NERDS: The control software is written in Java, API documentation is included in the project!
 
-CALIBRATION CONSTANTS:
-#For 12V 1.5A DC SPS
-#Voltage Drop for PWM Duty Cycle 150/255: 12V -> 7.6V
-#Voltage Drop for PWM Duty Cycle 100/255: 12V -> 8.9V
-#Voltage Drop for PWM Duty Cycle 50/255: 12V -> 11.3V
+CALIBRATION CONSTANTS For 12V 1.5A DC SPS
+
+Voltage Drop for PWM Duty Cycle 150/255: 12V -> 7.6V
+
+Voltage Drop for PWM Duty Cycle 100/255: 12V -> 8.9V
+
+Voltage Drop for PWM Duty Cycle 50/255: 12V -> 11.3V
