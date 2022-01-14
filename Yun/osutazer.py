@@ -108,6 +108,8 @@ def gmcodeinterputer(gmcode):
 		mcu.analog_write(9,0)
 	elif(command == "M112"):
 		output("EMERGENCY STOP!")
+		# Too lazy to implement this, it's just a little shock
+		# Feel free to die (:
 	elif(command == "M119"):
 		output("Polling Endstops.")
 		output("Impaler: A"+ str(mcu.analog_read(0)))
